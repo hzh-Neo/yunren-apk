@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">yunren</string>
+    <string name="testName">测试按钮</string>
+    <string name="layoutTitle">图片工具</string>
+    <string name="compress">图片压缩</string>
+    <string name="convert">图片转换</string>
+    <string name="convertResult">转换结果</string>
+    <string name="downloadImage">下载图片</string>
+    <string name="selectImage">选择图片</string>
+    <string name="selectImageToConvert">选择图片进行转换</string>
+</resources>
